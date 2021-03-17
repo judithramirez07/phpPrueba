@@ -11,7 +11,7 @@ include('conexion.php');
 	<title>PHP Intro</title>
 </head>
 <body>
-	<h1 class="miClase">MANEJADOR DE TAREAS </h1>
+	<h1 class="miClase">MI MANEJADOR DE TAREAS </h1>
 	<form action="store.php" method="POST">
 		<label for="tarea">Nombre de Tarea</label><br>
 		<input type="text" name="tarea">
